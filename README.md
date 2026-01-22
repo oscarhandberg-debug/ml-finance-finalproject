@@ -1,2 +1,2 @@
 # ml-finance-finalproject
-ml-finance-finalproject
+Afsluttende projekt 5. semester datamatiker
